@@ -1,0 +1,12 @@
+C:\Users\Diego\Documents\Repos\AngryBirds\AngryBirds.Biblioteca\bin\Debug\net9.0\AngryBirds.Biblioteca.deps.json
+C:\Users\Diego\Documents\Repos\AngryBirds\AngryBirds.Biblioteca\bin\Debug\net9.0\AngryBirds.Biblioteca.dll
+C:\Users\Diego\Documents\Repos\AngryBirds\AngryBirds.Biblioteca\bin\Debug\net9.0\AngryBirds.Biblioteca.pdb
+C:\Users\Diego\Documents\Repos\AngryBirds\AngryBirds.Biblioteca\obj\Debug\net9.0\AngryBirds.Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Repos\AngryBirds\AngryBirds.Biblioteca\obj\Debug\net9.0\AngryBirds.Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Repos\AngryBirds\AngryBirds.Biblioteca\obj\Debug\net9.0\AngryBirds.Biblioteca.AssemblyInfo.cs
+C:\Users\Diego\Documents\Repos\AngryBirds\AngryBirds.Biblioteca\obj\Debug\net9.0\AngryBirds.Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Repos\AngryBirds\AngryBirds.Biblioteca\obj\Debug\net9.0\AngryBirds.Biblioteca.sourcelink.json
+C:\Users\Diego\Documents\Repos\AngryBirds\AngryBirds.Biblioteca\obj\Debug\net9.0\AngryBirds.Biblioteca.dll
+C:\Users\Diego\Documents\Repos\AngryBirds\AngryBirds.Biblioteca\obj\Debug\net9.0\refint\AngryBirds.Biblioteca.dll
+C:\Users\Diego\Documents\Repos\AngryBirds\AngryBirds.Biblioteca\obj\Debug\net9.0\AngryBirds.Biblioteca.pdb
+C:\Users\Diego\Documents\Repos\AngryBirds\AngryBirds.Biblioteca\obj\Debug\net9.0\ref\AngryBirds.Biblioteca.dll
